@@ -1,0 +1,11 @@
+/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/bin/Debug/netcoreapp3.1/Backups2
+/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/bin/Debug/netcoreapp3.1/Backups2.deps.json
+/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/bin/Debug/netcoreapp3.1/Backups2.runtimeconfig.json
+/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/bin/Debug/netcoreapp3.1/Backups2.runtimeconfig.dev.json
+/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/bin/Debug/netcoreapp3.1/Backups2.dll
+/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/bin/Debug/netcoreapp3.1/Backups2.pdb
+/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/obj/Debug/netcoreapp3.1/Backups2.csprojAssemblyReference.cache
+/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/obj/Debug/netcoreapp3.1/Backups2.AssemblyInfoInputs.cache
+/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/obj/Debug/netcoreapp3.1/Backups2.AssemblyInfo.cs
+/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/obj/Debug/netcoreapp3.1/Backups2.dll
+/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/obj/Debug/netcoreapp3.1/Backups2.pdb

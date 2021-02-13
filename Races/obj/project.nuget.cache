@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "49le+2gJhF4OFa0FFD9BYYoMRHVfy1F2IeL0MOf+vS9v3Ck88aJvsKyc+dHvXH2NJ10o8iyHlNkItw226RfqWw==",
+  "success": true,
+  "projectFilePath": "/home/denis/RiderProjects/OOP/Races/Races.csproj",
+  "expectedPackageFiles": [
+    "/home/denis/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.3/microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

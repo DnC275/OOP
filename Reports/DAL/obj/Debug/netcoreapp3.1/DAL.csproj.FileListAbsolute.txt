@@ -1,0 +1,11 @@
+/home/denis/RiderProjects/OOP/Reports/DAL/bin/Debug/netcoreapp3.1/DAL.deps.json
+/home/denis/RiderProjects/OOP/Reports/DAL/bin/Debug/netcoreapp3.1/DAL.dll
+/home/denis/RiderProjects/OOP/Reports/DAL/bin/Debug/netcoreapp3.1/DAL.pdb
+/home/denis/RiderProjects/OOP/Reports/DAL/obj/Debug/netcoreapp3.1/DAL.csprojAssemblyReference.cache
+/home/denis/RiderProjects/OOP/Reports/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfoInputs.cache
+/home/denis/RiderProjects/OOP/Reports/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfo.cs
+/home/denis/RiderProjects/OOP/Reports/DAL/obj/Debug/netcoreapp3.1/DAL.dll
+/home/denis/RiderProjects/OOP/Reports/DAL/obj/Debug/netcoreapp3.1/DAL.pdb
+/home/denis/RiderProjects/OOP/Reports/DAL/bin/Debug/netcoreapp3.1/Data.dll
+/home/denis/RiderProjects/OOP/Reports/DAL/bin/Debug/netcoreapp3.1/Data.pdb
+/home/denis/RiderProjects/OOP/Reports/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CopyComplete

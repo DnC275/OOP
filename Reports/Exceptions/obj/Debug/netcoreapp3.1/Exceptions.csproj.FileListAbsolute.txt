@@ -1,0 +1,8 @@
+/home/denis/RiderProjects/OOP/Reports/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.deps.json
+/home/denis/RiderProjects/OOP/Reports/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.dll
+/home/denis/RiderProjects/OOP/Reports/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.pdb
+/home/denis/RiderProjects/OOP/Reports/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.csprojAssemblyReference.cache
+/home/denis/RiderProjects/OOP/Reports/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.AssemblyInfoInputs.cache
+/home/denis/RiderProjects/OOP/Reports/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.AssemblyInfo.cs
+/home/denis/RiderProjects/OOP/Reports/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.dll
+/home/denis/RiderProjects/OOP/Reports/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.pdb

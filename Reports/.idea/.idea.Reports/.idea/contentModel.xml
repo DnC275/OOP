@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_Reports.705766736.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BLL" t="IncludeRecursive">
+        <e p="BLL.csproj" t="IncludeRecursive" />
+        <e p="DTO" t="Include">
+          <e p="EmployeeDTO.cs" t="Include" />
+          <e p="ReportDTO.cs" t="Include" />
+          <e p="SprintReportDTO.cs" t="Include" />
+          <e p="TaskChangeDTO.cs" t="Include" />
+          <e p="TaskDTO.cs" t="Include" />
+        </e>
+        <e p="EmployeeService.cs" t="Include" />
+        <e p="Infrastructure" t="Include">
+          <e p="IEmployeeService.cs" t="Include" />
+          <e p="IReportService.cs" t="Include" />
+          <e p="IService.cs" t="Include" />
+          <e p="ISprintService.cs" t="Include" />
+          <e p="ITaskService.cs" t="Include" />
+        </e>
+        <e p="ReportService.cs" t="Include" />
+        <e p="SprintReportService.cs" t="Include" />
+        <e p="TaskService.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BLL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DAL" t="IncludeRecursive">
+        <e p="DAL.csproj" t="IncludeRecursive" />
+        <e p="EmployeeRepository.cs" t="Include" />
+        <e p="Entities" t="Include">
+          <e p="Employee.cs" t="Include" />
+          <e p="Report.cs" t="Include" />
+          <e p="SprintReport.cs" t="Include" />
+          <e p="Task.cs" t="Include" />
+          <e p="TaskChange.cs" t="Include" />
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="IEntity.cs" t="Include" />
+          <e p="IRepository.cs" t="Include" />
+        </e>
+        <e p="ReportRepository.cs" t="Include" />
+        <e p="SprintReportRepository.cs" t="Include" />
+        <e p="TaskChangeRepository.cs" t="Include" />
+        <e p="TaskRepository.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DAL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Data" t="IncludeRecursive">
+        <e p="Data.csproj" t="IncludeRecursive" />
+        <e p="MyDate.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Exceptions" t="IncludeRecursive">
+        <e p="ChangeDirectorOfLeader.cs" t="Include" />
+        <e p="DailyReportAlreadyAdded.cs" t="Include" />
+        <e p="Exceptions.csproj" t="IncludeRecursive" />
+        <e p="InsufficientRights.cs" t="Include" />
+        <e p="MyExceptions.cs" t="Include" />
+        <e p="NonexistentDirector.cs" t="Include" />
+        <e p="NonexistentEmployee.cs" t="Include" />
+        <e p="NonexistentReport.cs" t="Include" />
+        <e p="NonexistentSprint.cs" t="Include" />
+        <e p="NonexistentTask.cs" t="Include" />
+        <e p="NonresolvedTask.cs" t="Include" />
+        <e p="ReportTimeIsOver.cs" t="Include" />
+        <e p="SprintTimeIsOver.cs" t="Include" />
+        <e p="TaskAlreadyCompleted.cs" t="Include" />
+        <e p="TaskAssignedToAnother.cs" t="Include" />
+        <e p="TaskTimeIsOver.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Exceptions.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Reports" t="IncludeRecursive">
+        <e p="CommonMenu.cs" t="Include" />
+        <e p="EmployeeController.cs" t="Include" />
+        <e p="Infrastructure" t="Include">
+          <e p="IController.cs" t="Include" />
+        </e>
+        <e p="MenuTexts" t="Include">
+          <e p="CommonMenuText.txt" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ReportController.cs" t="Include" />
+        <e p="Reports.csproj" t="IncludeRecursive" />
+        <e p="SprintReportController.cs" t="Include" />
+        <e p="TaskController.cs" t="Include" />
+        <e p="ViewModels" t="Include">
+          <e p="ViewEmployeeModel.cs" t="Include" />
+          <e p="ViewReportModel.cs" t="Include" />
+          <e p="ViewSprintReportModel.cs" t="Include" />
+          <e p="ViewTaskChangeModel.cs" t="Include" />
+          <e p="ViewTaskModel.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Reports.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Reports.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

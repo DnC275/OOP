@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/5euqX6UjJLbzOgerX1bU44ucaA8nw2kAc6SZx8CRFJMixAqZ95CBlmb57TadzXaDjv7R3toN0p9o6rML6bIg==",
+  "success": true,
+  "projectFilePath": "/home/denis/RiderProjects/OOP/Store/Store.csproj",
+  "expectedPackageFiles": [
+    "/home/denis/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.3/microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

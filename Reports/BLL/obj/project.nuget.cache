@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qr8q8obtpNo2cU9FyhcpJzICmjTbyhGkY35DDWTtSmjlx2QEbyp3ognXVWj1A7CS0oVKGPVsC8w8mj//dH2HPA==",
+  "success": true,
+  "projectFilePath": "/home/denis/RiderProjects/OOP/Reports/BLL/BLL.csproj",
+  "expectedPackageFiles": [
+    "/home/denis/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

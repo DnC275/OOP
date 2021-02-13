@@ -1,0 +1,15 @@
+/home/denis/RiderProjects/OOP/Reports/BBL/bin/Debug/netcoreapp3.1/BBL.deps.json
+/home/denis/RiderProjects/OOP/Reports/BBL/bin/Debug/netcoreapp3.1/BBL.dll
+/home/denis/RiderProjects/OOP/Reports/BBL/bin/Debug/netcoreapp3.1/BBL.pdb
+/home/denis/RiderProjects/OOP/Reports/BBL/bin/Debug/netcoreapp3.1/DAL.dll
+/home/denis/RiderProjects/OOP/Reports/BBL/bin/Debug/netcoreapp3.1/DAL.pdb
+/home/denis/RiderProjects/OOP/Reports/BBL/obj/Debug/netcoreapp3.1/BBL.csprojAssemblyReference.cache
+/home/denis/RiderProjects/OOP/Reports/BBL/obj/Debug/netcoreapp3.1/BBL.AssemblyInfoInputs.cache
+/home/denis/RiderProjects/OOP/Reports/BBL/obj/Debug/netcoreapp3.1/BBL.AssemblyInfo.cs
+/home/denis/RiderProjects/OOP/Reports/BBL/obj/Debug/netcoreapp3.1/BBL.csproj.CopyComplete
+/home/denis/RiderProjects/OOP/Reports/BBL/obj/Debug/netcoreapp3.1/BBL.dll
+/home/denis/RiderProjects/OOP/Reports/BBL/obj/Debug/netcoreapp3.1/BBL.pdb
+/home/denis/RiderProjects/OOP/Reports/BBL/bin/Debug/netcoreapp3.1/Data.dll
+/home/denis/RiderProjects/OOP/Reports/BBL/bin/Debug/netcoreapp3.1/Data.pdb
+/home/denis/RiderProjects/OOP/Reports/BBL/bin/Debug/netcoreapp3.1/Exceptions.dll
+/home/denis/RiderProjects/OOP/Reports/BBL/bin/Debug/netcoreapp3.1/Exceptions.pdb

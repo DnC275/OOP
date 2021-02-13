@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "glGp9bTmofmKp+9TgNhe9TugOg4Y8VciesZY257OtNyVcWevlhsNEsOAGD8wqvCEV5OsQK4FoEuwPMc1p6kaRQ==",
+  "success": true,
+  "projectFilePath": "/home/denis/RiderProjects/C#_Stepik/Backups2/Backups2/Backups2.csproj",
+  "expectedPackageFiles": [
+    "/home/denis/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
